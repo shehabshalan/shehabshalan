@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.shehabshalan.com/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehabshalan/)
 <!-- ref https://ileriayo.github.io/markdown-badges/ -->
-I am Shehab Shalan, an AI Developer. Passionate about AI and software development and building innovative products, I thrive on continuous learning and collaboration. I'm open-minded, enjoy expanding my skillset, and I'm equally comfortable working independently or as part of a team, consistently delivering effective results.
+I am Shehab, an AI Developer. I am passionate about AI and software development and I like to build stuff :)
 
 ## What I am doing
 
